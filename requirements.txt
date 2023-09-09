@@ -1,0 +1,12 @@
+Python v3.10.12
+Matplotlib v3.7.1
+Torch v2.0.1
+OpenCV-python v4.7.0.72
+Diffusers v0.14.0
+Transformers v4.27.3
+PyYAML v5.1
+Detectron2 v0.6
+Torchvision v0.15.2
+Mediapipe v0.10.3
+OpenPose v1.7.0
+Ninja v0.14.5
